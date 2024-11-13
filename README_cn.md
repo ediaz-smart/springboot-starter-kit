@@ -8,8 +8,7 @@
 ```
 
 [![npm](https://img.shields.io/badge/demo-online-ed1c46.svg)](http://jwt.fanjin.io/)
-[![Build Status](https://travis-ci.org/bfwg/springboot-jwt-starter.svg?branch=master)](https://travis-ci.org/bfwg/springboot-jwt-starter)
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bfwg/springboot-jwt-starter/blob/master/LICENSE)
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ediaz-smart/springboot-starter-kit/blob/master/LICENSE)
 
 > 这是一个启动项目用到[Springboot](https://projects.spring.io/spring-boot/)，[AngularJS](https://angularjs.org/)和([JSON Web Token](https://jwt.io/)).
 
@@ -38,10 +37,10 @@
 ```bash
 # clone our repo
 # --depth 1 removes all but one .git commit history
-git clone --depth 1 https://github.com/bfwg/springboot-jwt-starter.git
+git clone --depth 1 https://github.com/ediaz-smart/springboot-starter-kit.git
 
 # change directory to our repo
-cd springboot-jwt-starter
+cd springboot-starter-kit
 
 # install the repo with mvn
 mvn install
